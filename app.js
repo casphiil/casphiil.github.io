@@ -1,3 +1,4 @@
+//1
 localStorage.clear();
 console.log(localStorage);
 const diceFaces = [1,2,3,4,5,6];
